@@ -1,24 +1,42 @@
+
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+<ul>
+<li>Annamaria Thorsteinsdottir</li>
+</ul>
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+<ol>
+<li>Eg valdi ad setja upp Ubuntu med Parallels Desktops. Eg byrjadi a ad skoda "machines" i Parallels.</li>
+<li>Valdi ad baeta vid machine.</li>
+<li>Valdi thar Ubuntu, downloadadi og installadi.</li>
+</ol>
+
+![Ubuntu ad downloadast](/UbuntuDownloadast.png)
+![Ubuntu uppsett](/UbuntuUppsett.png)
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Thad gekk vel ad setja upp Vim og Git. Thad gekk an vesens og villna.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Eftir ad hafa skodad bada linkana sem fylgdu verkefninu um Vim kennslu tokst nokkud vel ad vinna verkefnid. Mesta vesenid ad mer fannst var ad save-a breytingar, haetta i vim og sja breytingarnar i skjalinu. Eftir ad eg mundi eftir ad run-a breytingarnar gekk thetta snudrulaust.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Verkefnid mitt: 
+[https://github.com/annamt06/INTOPrufa](https://github.com/annamt06/INTOPrufa)
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+<ol>
+<li>LibreOffice Writer: Licence version 3, LGPLv3.
+	[http://anongit.freedesktop.org/git/libreoffice/core.git](http://anongit.freedesktop.org/git/libreoffice/core.git)</li>
+<li>LibreOffice Calc: Licence version 3, LGPLv3.
+	[http://anongit.freedesktop.org/git/libreoffice/core.git](http://anongit.freedesktop.org/git/libreoffice/core.git)</li>
+<li>LibreOffice Impress: Licence version 3, LGPLv3.
+        [http://anongit.freedesktop.org/git/libreoffice/core.git](http://anongit.freedesktop.org/git/libreoffice/core.git)</li>
+</ol>
 
 ## 5. Unnið með Git (2. hluti)
 
