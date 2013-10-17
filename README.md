@@ -31,11 +31,11 @@ Verkefnid mitt:
 
 <ol>
 <li>LibreOffice Writer: Licence version 3, LGPLv3.
-	[http://anongit.freedesktop.org/git/libreoffice/core.git](http://anongit.freedesktop.org/git/libreoffice/core.git)</li>
+	[http://anongit.freedesktop.org/git/libreoffice/core.git]</li>
 <li>LibreOffice Calc: Licence version 3, LGPLv3.
-	[http://anongit.freedesktop.org/git/libreoffice/core.git](http://anongit.freedesktop.org/git/libreoffice/core.git)</li>
+	[http://anongit.freedesktop.org/git/libreoffice/core.git]</li>
 <li>LibreOffice Impress: Licence version 3, LGPLv3.
-        [http://anongit.freedesktop.org/git/libreoffice/core.git](http://anongit.freedesktop.org/git/libreoffice/core.git)</li>
+        [http://anongit.freedesktop.org/git/libreoffice/core.git]</li>
 </ol>
 
 ## 5. Unnið með Git (2. hluti)
