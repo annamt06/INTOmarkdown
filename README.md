@@ -13,7 +13,7 @@
 <li>Valdi thar Ubuntu, downloadadi og installadi.</li>
 </ol>
 
-![Ubuntu ad downloadast](<img src='UbuntuDownloadast.png' />)
+![Ubuntu ad downloadast](/UbuntuDownloadast.png)
 ![Ubuntu uppsett](/UbuntuUppsett.png)
 
 ## 2. Uppsetning á vim && git
